@@ -69,7 +69,7 @@ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/P1-Build-My-Worl
 ```
 * Launch the world file in Gazebo to load both the world and plugin  
 ```bash
-cd /home/workspace/Project1/world/
+cd /home/workspace/Build_My_World/world/
 gazebo UdacityOffice.world
 ```
 
