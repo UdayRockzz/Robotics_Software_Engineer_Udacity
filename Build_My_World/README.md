@@ -2,7 +2,7 @@
 Project 1 of Udacity Robotics Software Engineer Nanodegree Program
 
 
-![screenshot](https://github.com/UdayRockzz/Robotics_Software_Engineer_Udacity/blob/main/Build_My_World/Output.JPG.PNG) 
+![screenshot](https://github.com/UdayRockzz/Robotics_Software_Engineer_Udacity/Build_My_World/Output.JPG) 
 
 ## Overview
 In this project you'll create your simulation world in Gazebo for all your upcoming projects in the [Udacity Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209).  
@@ -69,8 +69,8 @@ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/P1-Build-My-Worl
 ```
 * Launch the world file in Gazebo to load both the world and plugin  
 ```bash
-cd /home/workspace/P1-Build-My-World/world/
-gazebo office.world
+cd /home/workspace/Project1/world/
+gazebo UdacityOffice.world
 ```
 
 ## Tips  
