@@ -2,7 +2,7 @@
 Project 1 of Udacity Robotics Software Engineer Nanodegree Program
 
 
-![screenshot](https://github.com/UdayRockzz/Robotics_Software_Engineer_Udacity/Build_My_World/Output.JPG) 
+![screenshot](https://github.com/UdayRockzz/Robotics_Software_Engineer_Udacity/Build_My_World/Output.png) 
 
 ## Overview
 In this project you'll create your simulation world in Gazebo for all your upcoming projects in the [Udacity Robotics Software Engineer Nanodegree Program](https://www.udacity.com/course/robotics-software-engineer--nd209).  
